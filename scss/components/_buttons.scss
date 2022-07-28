@@ -1,0 +1,35 @@
+/* ============================================= */
+/*              Buttons                          */
+/* ============================================= */
+
+.btn {
+    margin-top: 15px;
+    width: 100%;
+    color: #fff;
+    border: none;
+    padding: 10px 0;
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
+  
+  .default {
+    background-color: $color-third;
+  }
+  
+  .error {
+    background-color: $color-sixth;
+  }
+  
+  .info {
+    background-color: $color-fourth;
+  }
+  
+  .success {
+    background-color: $color-seventh;
+  }
+  
+  .warning {
+    background-color: $color-fifth;
+  }
+  
+  
